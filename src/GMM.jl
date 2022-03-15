@@ -1,5 +1,5 @@
 module GMM
 
-# Write your package code here.
+#main module
 
 end
